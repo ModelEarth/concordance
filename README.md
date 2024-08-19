@@ -1,5 +1,5 @@
 # concordance: Product Concordance
-[![R-CMD-check](https://github.com/insongkim/concordance/workflows/R-CMD-check/badge.svg)](https://github.com/insongkim/concordance/actions) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/concordance)  [![CRAN status](https://www.r-pkg.org/badges/version/concordance)](https://CRAN.R-project.org/package=concordance)
+[![R-CMD-check](https://github.com/insongkim/concordance/workflows/R-CMD-check/badge.svg)](https://github.com/insongkim/concordance/actions) ![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/concordance)  [![CRAN status](https://www.r-pkg.org/badges/version/concordance)](https://CRAN.R-project.org/package=concordance)
 
 Authors
 -------------------------
